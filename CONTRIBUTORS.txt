@@ -32,7 +32,7 @@ E : rgg800@gmail.com
 D : main developer of this project
 
 N : Huynjung, Kim
-E : bbkim98@naver.com
+E : torntorn22@naver.com
 D : main developer of this project
 
 N : Hyungi, Shin
